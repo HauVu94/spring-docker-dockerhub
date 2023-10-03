@@ -1,3 +1,4 @@
+[![Publish Docker image](https://github.com/HauVu94/spring-docker-dockerhub/actions/workflows/docker.yml/badge.svg)](https://github.com/HauVu94/spring-docker-dockerhub/actions/workflows/docker.yml)
 # Docker med Spring boot, Docker hub & AWS ECR 
 
 ## Beskrivelse
